@@ -122,3 +122,30 @@ body {
     align-self: flex-end;
     font-weight: bold;
 }
+
+.footer-card {
+    background-color: #3882F6;
+    margin: 50px 200px;
+    padding: 40px 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-title {
+    color: #F9FAF8;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.footer-text {
+    color: #E5E7EB;
+}
+
+.footer-button button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border: 2px solid #F9FAF8;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 5px 20px;
+}
