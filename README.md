@@ -1,0 +1,1 @@
+This project is intended to be a demonstration of making a simple layout of a single webpage. The intent is to set up the basic layout with html, arrange it with flexbox, and style it using basic css styles.
