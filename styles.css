@@ -149,3 +149,11 @@ body {
     font-size: 20px;
     padding: 5px 20px;
 }
+
+.end {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
